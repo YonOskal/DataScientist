@@ -18,8 +18,8 @@ def plus_two_values(v1: int, v2: int) -> int:
     # else:
     #     print("Error!")
     if not (isinstance(v1, int) and isinstance(v2, int)):
-    raise TypeError("Must be int values")
-    return v1 + v2
+    # raise TypeError("Must be int values")
+    # return v1 + v2
 
 
 
@@ -27,7 +27,7 @@ def plus_two_values(v1: int, v2: int) -> int:
 # print(plus_two_values.__doc__)
 # print(plus_two_values(5,8))
 # help(print)
-print(plus_two_values("hello "," world"))
+# print(plus_two_values("hello "," world"))
 
 # lst = []
 # for _ in range(10):
