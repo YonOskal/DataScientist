@@ -35,6 +35,15 @@ elif choice == "Только Ваня":
     msg = select_ivan()
     msgbox(msg, "Результат запроса")
 
+# phonebook = {"дядя Ваня": {'phones': [1212121,5555555],
+# 'email': '777@mail.com', 'birthday': '10.10.1990'},
+# "дядя Вася": {'phones': [888888]}
+# }
+
+# # print(phonebook['дядя Ваня'])
+# # print(phonebook['дядя Ваня'] ['phones'])
+# print(phonebook['дядя Ваня'] ['phones'] [0])
+
 
 conn.commit()
 conn.close()
