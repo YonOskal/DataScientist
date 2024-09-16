@@ -35,6 +35,7 @@
 # If the implementation is hard to explain, it's a bad idea.
 # If the implementation is easy to explain, it may be a good idea.
 # Namespaces are one honking great idea -- let's do more of those!
+
 # Напишите программу, которая выводит на экран все строки этого файла в
 # обратном порядке.
 # Кстати, попробуйте открыть консоль Python и ввести команду import this.
